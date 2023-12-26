@@ -1,9 +1,9 @@
 
 
-function Loginpage() {
+function LoginPage() {
   return (
-    <div>Loginpage</div>
+    <div>LoginPage</div>
   )
 }
 
-export default Loginpage
+export default LoginPage
